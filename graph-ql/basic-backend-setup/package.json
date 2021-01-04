@@ -11,7 +11,7 @@
 	"author" : "",
 	"license" : "ISC",
 	"dependencies" : {
-		"axios" : "^0.17.1",
+		"axios" : "^0.21.1",
 		"express" : "^4.16.2",
 		"express-graphql" : "^0.6.11",
 		"graphql" : "^0.12.3",
